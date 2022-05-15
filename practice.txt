@@ -1,0 +1,7 @@
+My first file.
+5 git commands:
+git status
+git push
+git --version
+git clone
+git commit
